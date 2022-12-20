@@ -49,7 +49,7 @@ public class BackgroundPlayerService implements Runnable{
 			}
 			
 			// 2. 벽 충돌 체크
-			Color leftColor = new Color(image.getRGB(player.getX() - 10, player.getY() + 25));
+			Color leftColor = new Color(image.getRGB(player.getX(), player.getY() + 25));
 			Color rightColor = new Color(image.getRGB(player.getX() + 50 + 15, player.getY() + 25));
 			
 			int bottomColor = image.getRGB(player.getX() + 10, player.getY() + 50 + 5) // -1
