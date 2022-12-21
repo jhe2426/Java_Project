@@ -1,7 +1,7 @@
 # Java_Project
 
 실행 방법 :<br>
-Build Path에 lib에 폴더에 있는 mysql-connector을 추가해주세요
+Build Path에 lib에 폴더에 있는 mysql-connector을 추가해주세요<br>
 game패키지에 있는 Login 클래스에서 실행을(컨트롤+F11) 하고 아이디: test 비밀번호 : 1234를 입력하면됩니다.<br>
 
 1. 게임 설명<br>
