@@ -8,6 +8,8 @@ game패키지에 있는 Login 클래스에서 실행을(컨트롤+F11) 하고 �
 버블보블 게임 : 플레이어 캐릭터가 버블을 쏴 적 캐릭터를 죽이고 모든 적 캐릭터를 죽이면 끝나는 게임<br>
 움직이는 키 : 방향키 <br>
 공격 키 : 스페이스 바 <br><br>
+![1](https://user-images.githubusercontent.com/117806984/208880777-f589a9fa-d787-497b-9fd4-74d948aee5b3.jpg)<br>
+![1](https://user-images.githubusercontent.com/117806984/208880828-81b70ed4-517e-43cd-aeed-30c38aafc9d3.jpg)<br>
 
 2. 작동원리<br>
 ① 방향키 입력으로 플레이어 캐릭터가 움직일 수 있게  left(),right(),up(),down()메서드 좌표값 x,y 값에 변화를 주어 플레이어 캐릭터가 움직일 수 있도록 구현되어 있습니다.<br><br>
