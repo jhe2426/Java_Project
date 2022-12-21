@@ -1,0 +1,6 @@
+CREATE TABLE `login`.`login` (
+  `id` VARCHAR(45) NOT NULL,
+  `password` VARCHAR(45) NOT NULL,
+  `user_name` VARCHAR(45) NOT NULL,
+  `user_id_card` VARCHAR(13) NOT NULL,
+  `user_phone_number` VARCHAR(11) NOT NULL);
