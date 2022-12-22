@@ -24,22 +24,20 @@ mysql으로 데이터베이스를 연결하고 싶었는데 어떻게 할지 몰
 
 
 
-4. 개선사항<br>
-데이터베이스 리팩토링<br><br>
 
 
-
-5. 추가하고 싶은 기능
+4. 추가하고 싶은 기능
 - 적을 다 제거하면  다음 레벨 맵으로 패널이 바뀌는 기능 <br>
 - 마지막 맵의 적을 다 제거하면 브금이 바뀌고 클리어라는 문구가 뜨는 패널이 나오는 기능<br>
-- 제한 시간 타이머 기능<br><br>
+- 제한 시간 타이머 기능<br>
+- 데이터베이스 리팩토링<br><br>
 
-6. 추가 구현한 부분
+5. 추가 구현한 부분
 - 로그인창과, 회원가입창을 생성 후 데이터베이스와 연동<br>
 - 캐릭터가 죽을 시 배경음악이 변경되도록 구현<br><br>
 
 
-7. 출처<br>
+6. 출처<br>
 https://www.youtube.com/playlist?list=PL93mKxaRDidGqGOsNQ1DqTwB0xA_ON-nY<br>
 https://github.com/PoorMan1225/java-bubble-game-v2<br>
 https://www.youtube.com/watch?v=fCjPrmea-H0<br>
